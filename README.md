@@ -67,7 +67,7 @@ Gourmania is an open source project that enables you to create, search and save 
 - Clone the repository
 
 ```
-https://github.com/Dmytro-Shved/Gourmania.git
+https://github.com/dmshved/Gourmania.git
 ```
 
 - Copy `.env.example` file to `.env` and edit database credentials there
@@ -118,7 +118,7 @@ npm run dev
 ### Team
 
 At the moment the team consists of one person:
-- [Dmytro Shved](https://github.com/Dmytro-Shved)
+- [Dmytro Shved](https://github.com/dmshved)
 
 ## License
 

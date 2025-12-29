@@ -18,7 +18,7 @@
             </svg>
         </a>
         {{-- Github--}}
-        <a href="https://github.com/Dmytro-Shved/Gourmania"
+        <a href="https://github.com/dmshved/Gourmania"
            class="p-3 bg-gray-800 text-white rounded-full hover:bg-gray-700 transition duration-300">
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor"
                  class="bi bi-github" viewBox="0 0 16 16">

@@ -153,13 +153,13 @@
             <a href="https://www.instagram.com/gourmania.official/" alt="Instagram">
                 <img src="https://img.icons8.com/?size=100&id=Iatym1CIDVkh&format=png&color=ffffff" width="35" height="35" alt="Instagram">
             </a>
-            <a href="https://github.com/Dmytro-Shved/Gourmania" alt="GitHub">
+            <a href="https://github.com/dmshved/Gourmania" alt="GitHub">
                 <img src="https://img.icons8.com/?size=100&id=WCL5hPLvhUjQ&format=png&color=ffffff" width="35" height="35" alt="GitHub">
             </a>
         </div>
 
         <p>© 2025 Gourmania. All rights reserved.<br>
-            by <a href="https://github.com/Dmytro-Shved" style="text-decoration: underline; color: #ffffff">Dmytro Shved</a></p>
+            by <a href="https://github.com/dmshved" style="text-decoration: underline; color: #ffffff">Dmytro Shved</a></p>
     </div>
 </div>
 </body>

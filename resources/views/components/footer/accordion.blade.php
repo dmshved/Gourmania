@@ -42,7 +42,7 @@
                         <div class="p-6">
                             <span class="text-white text-[15px] font-inclusive">
                                 At the moment the team consists of one person:
-                                <br> <a href="https://github.com/Dmytro-Shved" class="underline">Dmytro Shved</a>
+                                <br> <a href="https://github.com/dmshved" class="underline">Dmytro Shved</a>
                             </span>
                         </div>
                     </div>
