@@ -6,13 +6,6 @@
 
 ## Gourmania is an open source project that lets you create, browse and store recipes.
 
->This project is under active development
-> 
->  - implementing automates tests with [Pest](https://pestphp.com/)
->  - core features are working
->  - updates and improvements are ongoing
->  - expect changes in future releases
-
 ## Table of contents
 
 - [Introduction](#introduction)
